@@ -18,4 +18,4 @@ Al finalizar, el estudiante será capaz de:
 Se utilizará el **Dry Bean Dataset** del repositorio UCI Machine Learning Repository. El dataset contiene mediciones de granos de frijol seco obtenidas mediante visión por computador.
 
 *   **Fuente oficial:** [UCI Machine Learning Repository - Dry Bean Dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
-*   **Colab Preprocesamiento de datos:** [Acceder al Notebook de Colab](https://colab.research.google.com/drive/1pxkMQ1Tlq8SXE8WEL6LyZ-ytjFQBRoAq?usp=sharing)
+*   **Notebook Preprocesamiento de datos:** [Acceder al Notebook](https://github.com/IAproyecto24/Laboratorio_drybean_ml/blob/develop/notebooks/Prepocesamiento_Datos_Crudos_Frijol.ipynb)
